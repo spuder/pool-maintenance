@@ -30,7 +30,6 @@ Assumes PoolMaster 5-way-test (not 2 way or 6 way)
 
 - [ ] Ensure pool water level is **above top step** (see [/procedures/add-water.md](/procedures/add-water.md))
 
-
 ## Cleaning
 
 - [ ] **Empty main skimmer basket**
@@ -40,6 +39,7 @@ Assumes PoolMaster 5-way-test (not 2 way or 6 way)
 - [ ] **Skim Surface** with net
 - [ ] **Brush Floor/Sides** with broom
 - [ ] **Vaccum Floor** (See [/procedures/vaccum.md](/procedures/vaccum.md))
+- [ ] Inspec Salt Cell warning lights (See [/procedures/salt-cell-settings.md](/procedures/salt-cell-settings.md))
 
 
 ### Clean salt cell (every 3 months)

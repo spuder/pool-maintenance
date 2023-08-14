@@ -31,8 +31,8 @@ Ideals for 20,000 gallon salt pool
 | Ideal | 20,000 | 
 | --- | --- | 
 | PH | `< 7.6 PH` | 
-| Free Chlorine | `3 PPM`
-| Calcium Hardness | `200-400 PPM`
+| Free Chlorine | `3 PPM` | 
+| Calcium Hardness | `200-400 PPM`| 
 
 ### Free Chlorine (weekly)
 
@@ -59,37 +59,11 @@ Ideals for 20,000 gallon salt pool
 
 
 
-
-## Maintenance
-
-### Clean tracks with freshwater (weekly)
-
-Salt water can corode the tracks
-
-### Clean pool cover (weekly)
-
-Prevent salt build up on top of cover
-
-### Clean salt cell (every 3 months)
-
-See [procedures/inspec-salt-cell.md](/procedures/inspect%20salt%20cell.md) for how to clean the salt cell.
-
 ### Shock/Boost (weekly/rainstorms)
 
 
 - Add non-chlorine shock (do not use dichlor shock or liquid chlorine )
 - If salt cell has 'boost' or 'superchlorinate' setting, run that once a week 
-
-### Skim surface (weekly)
-
-### Brush sides/floor (weekly)
-
-### Vaccume Pool (weekly)
-
-### Empty skimmer basket (weekly)
-
-### Empty pump basket (weekly)
-
 
 
 ![](/files/Salt%20Water%20Pool%20Care%20Cheat%20Sheet.png)

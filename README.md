@@ -15,6 +15,15 @@ Documentation and Reference of how to take care of a salt water pool
 ### [- Inspect / Clean salt cell](/procedures/inspect%20salt%20cell.md)
 
 
+
+## Checklists
+
+### - [Weekly](/checklists/weekly.md)
+### - [Monthly](/checklists/monthly.md)
+### - [Quarterly](/checklists/quarterly.md)
+### - [After Rainfall / Freshwater](/checklists/rainfall.md)
+
+
 # Tests
 
 Ideals for 20,000 gallon salt pool
@@ -31,7 +40,8 @@ Ideals for 20,000 gallon salt pool
 
 ### PH (weekly)
 
-- Keep below 7.6 to protect skin and parts
+- Keep below `7.6` to protect skin and parts
+- Above `7.8` requires chemical intervention
 - Muriatic Acid or PH minus 
 - Salt Generator increasers PH, decrease salt generation run time if too high
 

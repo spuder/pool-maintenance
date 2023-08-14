@@ -33,9 +33,10 @@
 - Gently remove salt cell while keeping track of orings
 
 ### Clean Salt Cell
-- Spray Salt Generator with high pressure hose
+- Inspect for white calcium build up on metal plates
+- Spray Salt Generator with hose
 - Put on Gloves/Goggles for Acid
-- Mix 1 quart of Acid to 1 Gallon tap water (AAW- Add acid to water, never water to acid)
+- Mix 1 quart of Acid to 1 Gallon tap water (AAW- Add acid to water, never water to acid) (`5:1` water to acid)
 - Have garden hose ready to dilute acid if it spills
 - Put Salt Generator vertically in stand. Add Acid for 30 minutes max (or until bubbles stop)
 - Inspect o-rings for greese/cracks

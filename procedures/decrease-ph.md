@@ -9,6 +9,7 @@
 - [ ] Using sample from PH test
 - [ ] Add **solution 3**; **1 drop at a time** until PH is between `7.2` and `7.6`
 - [ ] Note drops and consult chart
+- [ ] Discard Sample and rinse container
 
 
 | Drops | Muratic Acid (20,000 gallons) | 
@@ -27,3 +28,8 @@
 - [ ] Pour [Clorox PH down](https://www.amazon.com/Clorox-Pool-Spa-12105CLX-Down/dp/B084GPS6KR) into **8 oz cup** (green cup)
 - [ ] **Scatter Acid** in **deep end of pool**, ensure does not settle in 1 area to **avoid burning** pool liner
 - [ ] **Sweep floor** with broom to spread acid
+
+
+
+## Resources
+https://www.poolmaster.com/wp-content/uploads/2013/04/260-8_5WEBLAYOUT-In5WayTestKitGHS.pdf

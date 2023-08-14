@@ -26,19 +26,21 @@ Assumes PoolMaster 5-way-test (not 2 way or 6 way)
 - [ ] Compare Color
 - [ ] If PH `> 7.8` **preserve sample** and see [/procedures/decrease-ph.md](/procedures/decrease-ph.md)
 
+## Safety
+
+- [ ] Ensure pool water level is **above top step** (see [/procedures/add-water.md](/procedures/add-water.md))
+
 
 ## Cleaning
 
+- [ ] **Empty main skimmer basket**
+- [ ] **Empty pump skimmer basket**
+- [ ] **Rinse cover tracks** with hose
+- [ ] **Rinse pool cover** with hose
+- [ ] **Skim Surface** with net
+- [ ] **Brush Floor/Sides** with broom
+- [ ] **Vaccum Floor** (See [/procedures/vaccum.md](/procedures/vaccum.md))
 
-
-----
-
-- [ ] Rinse tracks
-- [ ] Rinse pool cover
-
-### Clean pool cover (weekly)
-
-Prevent salt build up on top of cover
 
 ### Clean salt cell (every 3 months)
 
@@ -49,13 +51,3 @@ See [procedures/inspec-salt-cell.md](/procedures/inspect%20salt%20cell.md) for h
 
 - Add non-chlorine shock (do not use dichlor shock or liquid chlorine )
 - If salt cell has 'boost' or 'superchlorinate' setting, run that once a week 
-
-### Skim surface (weekly)
-
-### Brush sides/floor (weekly)
-
-### Vaccume Pool (weekly)
-
-### Empty skimmer basket (weekly)
-
-### Empty pump basket (weekly)
